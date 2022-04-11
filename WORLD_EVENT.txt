@@ -1,9 +1,1 @@
-Eliza & Anmol
-
-1. Click the mouse
-2. Background of surrounding tiles is changed to ice (9 tiles)
-3. If dude_not_full is within distance of 5 to mouseClick
-   it will transform into hulk which completely destroys trees
-4. A new wizard is spawned from (10, 2) which changes trees into
-   crystals.
-5. Both partners worked on everything together.
+Click around on the tiles to see a special event occur.
